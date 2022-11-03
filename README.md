@@ -35,3 +35,12 @@ abrimos el archivo hots en un editor de texto y ponemos el siguiente
  
  en caso de no lograr realizar la instalacion del proyecto localmente porfavor comunicarce a este nuemro 3194672644 para explicarle 
  el proceso mediante una videollamada o mostrarle en funcionamiento desde mi pc del inventario
+ 
+ 4- Los crendiaces de admin son:
+ Usuario:
+ -laura@gmail.com
+ -administrador@gmail.com
+ Clave:
+ -laura
+ -123456
+ 5- la pagina para entrar a administristrador es : http://adminsystem.com/categories
