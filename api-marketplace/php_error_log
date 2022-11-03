@@ -1,0 +1,540 @@
+[03-Nov-2022 06:20:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:20:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:20:13 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:20:26 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:20:26 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:20:35 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:23:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:23:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:23:09 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:23:23 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:23:23 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:23:48 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:25:19 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:25:19 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:25:22 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:25:41 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:25:41 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:25:48 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:47:36 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:47:37 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 06:47:40 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:18:32 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:18:32 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:18:50 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:27:18 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:27:18 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:27:21 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:29:43 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:29:43 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:29:50 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:30:30 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:30:30 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:30:35 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:53:27 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:53:27 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:53:39 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:56:45 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:56:45 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:56:47 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:57:17 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:57:17 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 07:57:21 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 14:25:48 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 14:25:48 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 14:25:52 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 14:26:22 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 14:26:22 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 14:26:43 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 14:26:47 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 14:45:04 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 14:45:04 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 14:45:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 16:06:40 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 16:06:40 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 16:06:43 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 16:06:57 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 16:06:57 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 16:06:59 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 16:07:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27
+[03-Nov-2022 16:07:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketplace.relations' doesn't exist in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php:27
+Stack trace:
+#0 C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php(27): PDOStatement->execute()
+#1 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\get.controller.php(11): GetModel::getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#2 C:\xampp\htdocs\sistema-php\api-marketplace\routes\route.php(431): GetController->getData('relations', NULL, NULL, NULL, NULL, 'id_subcategory')
+#3 C:\xampp\htdocs\sistema-php\api-marketplace\controllers\route.controller.php(11): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema-php\api-marketplace\index.php(33): RoutesController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema-php\api-marketplace\models\get.model.php on line 27

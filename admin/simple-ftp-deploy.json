@@ -1,0 +1,15 @@
+{
+    "host": "localhost",
+    "port": 21, 
+    "username": "root",
+    "password": "****",
+    "rootDirectory": "/public_html/",
+    "ignoredFilenames": ["example.py", "anotherFilename.json"],
+    "ignoredExtensions": [".ignore", ".txt"],
+    "ignoredFolders": ["ignore", "IGNORE"],
+    "reuseSessions": true,
+    "connectionTimeout": 600,
+    "passive": true,
+    "autoCreateDirectory": true,
+    "sessionCacheEnabled": true  
+}
